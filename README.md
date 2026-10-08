@@ -105,7 +105,7 @@ Qué es y cómo funciona.
 - [ ] Claude Platform 101
 - [ ] Completar Claude 101
 - [ ] Crear un modelo de IA desde cero
-- [ ] Presentar Autono en un hackatón
+- [X] Presentar Autono en un hackatón
 - [ ] Más certificaciones
 
 ---
