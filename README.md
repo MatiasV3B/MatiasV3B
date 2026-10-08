@@ -6,8 +6,12 @@
 
 ![Perfil](https://img.shields.io/badge/Desarrollador-IA-7c3aed?style=for-the-badge)
 ![Edad](https://img.shields.io/badge/Edad-14-0d1117?style=for-the-badge)
-![Gamer](https://img.shields.io/badge/Gamer-Si-22c55e?style=for-the-badge)
-
+![Claude](https://img.shields.io/badge/Amo_a-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-Certificado-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-Usuario-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Autono](https://img.shields.io/badge/Creador_de-Autono-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Zylo AI](https://img.shields.io/badge/Creador_de-Zylo_AI-7c3aed?style=for-the-badge)
+![Aprendiendo](https://img.shields.io/badge/Aprendiendo-Modelos_de_IA-22c55e?style=for-the-badge)
 </div>
 
 ---
