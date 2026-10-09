@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:2563eb&height=220&section=header&text=Matias%20Vergara&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Construyendo%20con%20Claude%20%F0%9F%A7%A1&descSize=22&descAlignY=58" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:2563eb&height=220&section=header&text=Matias%20Vergara&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20F0%9F%A7%A1&descSize=22&descAlignY=58" alt="banner" />
 
 <img src="assets/claude-pixel.gif" width="120" alt="Claude pixel animado" />
 
